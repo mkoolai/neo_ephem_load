@@ -1,0 +1,6 @@
+*.log
+*.neo
+*.html
+
+temp/
+
